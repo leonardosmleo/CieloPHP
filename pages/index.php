@@ -9,11 +9,11 @@
 		<h4>
 			<a href="carrinho.php">Nova compra</a>
 			<br>
-			<a href="carrinhoCartao.php">Nova compra (cart„o na loja)</a>
+			<a href="carrinhoCartao.php">Nova compra (cart√£o na loja)</a>
 			<br>
 			<a href="pedidos.php">Pedidos efetuados</a>
 			<br>
-			<a href="gerenciarTransacao.php">Gerenciar TransaÁ„o</a>
+			<a href="gerenciarTransacao.php">Gerenciar transa√ß√£o</a>
 		</h4>
 	</center>
 </html>
