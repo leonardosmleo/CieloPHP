@@ -1,5 +1,6 @@
 <?php 
 	require "../includes/include.php";
+	//teste para ver de funciona
 ?>
 <html>
 	<head>
@@ -19,7 +20,7 @@
 							<option value="37057">Celular - R$ 370,57</option>					
 							<option value="200000">iPhone - R$ 2.000,00</option>
 							<option value="999000000">Legacy 500 - R$ 9.990.000,00</option>
-							<option value="0">InjeÁ„o - R$ 0,00</option>
+							<option value="0">Inje√ß√£o - R$ 0,00</option>
 							<option value="799990">TV 46'' LED - R$ 7.999,90</option>
 							<option value="100">Bala Chita - R$ 1,00</option>
 						</select>						 
@@ -34,8 +35,8 @@
 							<option value="elo">Elo</option>
 						</select>
 						<br/>					
-						<input type="radio" name="formaPagamento" value="A">DÈbito
-						<br><input type="radio" name="formaPagamento" value="1" checked>CrÈdito ‡ Vista
+						<input type="radio" name="formaPagamento" value="A">D√©bito
+						<br><input type="radio" name="formaPagamento" value="1" checked>Cr√©dito √† Vista
 						<br><input type="radio" name="formaPagamento" value="3">3x
 						<br><input type="radio" name="formaPagamento" value="6">6x
 						<br><input type="radio" name="formaPagamento" value="12">12x
@@ -45,7 +46,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td>ConfiguraÁ„o</td>
+					<td>Configura√ß√£o</td>
 					<td>
 						<table>
 							<tr>
@@ -64,18 +65,18 @@
 								<td>
 									<select name="capturarAutomaticamente">
 										<option value="true">Sim</option>
-										<option value="false" selected="selected">N„o</option>
+										<option value="false" selected="selected">N√£o</option>
 									</select>
 								</td>
 							</tr>
 							<tr>
-								<td>AutorizaÁ„o Autom·tica</td>
+								<td>Autoriza√ß√£o Autom√°tica</td>
 								<td>
 									<select name="indicadorAutorizacao">
 										<option value="3">Autorizar Direto</option>
-										<option value="2">Autorizar transaÁ„o autenticada e n„o-autenticada</option>
-										<option value="0">Somente autenticar a transaÁ„o</option>
-										<option value="1">Autorizar transaÁ„o somente se autenticada</option>
+										<option value="2">Autorizar transa√ß√£o autenticada e n√£o-autenticada</option>
+										<option value="0">Somente autenticar a transa√ß√£o</option>
+										<option value="1">Autorizar transa√ß√£o somente se autenticada</option>
 									</select>
 								</td>
 							</tr>
