@@ -1,6 +1,5 @@
 <?php 
 	require "../includes/include.php";
-
 ?>
 <html>
 	<head>
